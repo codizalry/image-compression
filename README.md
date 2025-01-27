@@ -1,30 +1,15 @@
-=== Image Compressor & WebP Generator ===
-Contributors: codizalry
-Tags: image compression, webp, image optimization, performance, seo  
+=== Plugin Name ===  
+Contributors: (your_username)  
+Tags: image optimization, webp, media library, bulk optimization  
 Requires at least: 5.0  
 Tested up to: 6.3  
 Requires PHP: 7.2  
-Stable tag: 1.0  
+Stable tag: 1.0.0  
 
-Optimize your website’s performance with seamless image compression and WebP generation. Automatically compress uploaded images and generate WebP files for a faster, more efficient browsing experience.
+== Description ==  
+Automatically optimize images and generate WebP files for all uploaded images. Supports manual optimization for previously uploaded images through the Media Library.  
 
-== Description ==
-
-Image Compressor & WebP Generator helps you modernize your WordPress site by optimizing images on upload. It reduces image file sizes and automatically creates WebP versions, improving page load speed, SEO, and user experience.
-
-**Features:**
-- Automatic image compression for JPEG, and PNG files.
-- Generate WebP versions of all supported image formats.
-- Boosts website speed and improves Core Web Vitals.
-- Easy setup with no manual effort required.
-- Compatible with WordPress Media Library.
-
-**Why Choose This Plugin?**
-- Enhance your website’s performance effortlessly.
-- Improve mobile usability with faster loading images.
-- Reduce server bandwidth usage.
-
-== Installation ==
+== Installation ==  
 
 1. Activate the plugin through the 'Plugins' menu in WordPress.  
 2. Upload your images either through the Media Library or specific image fields.  
@@ -34,28 +19,19 @@ Image Compressor & WebP Generator helps you modernize your WordPress site by opt
 - Clicking the optimization button on individual images in the Media Library.  
 - Using the bulk action feature to optimize multiple images at once.  
 
+== Frequently Asked Questions ==  
 
-== Frequently Asked Questions ==
+= Does this plugin work for previously uploaded images? =  
+Yes, you can optimize previously uploaded images by either clicking the optimization button on individual images or using the bulk action feature in the Media Library.  
 
-= Does this plugin work for previously uploaded images? =
-Yes, it does! You can optimize previously uploaded images by either:
-1. Clicking the optimization button on individual images in the Media Library.
-2. Using the bulk action feature to optimize multiple images at once.
+== Changelog ==  
 
-= What image formats are supported? =
-The plugin supports JPEG, and PNG formats.
+= 1.0.0 =  
+* Initial release of the plugin.  
+* Automatic WebP generation for new uploads.  
+* Manual optimization for existing images.  
 
-= Will this replace the original images? =
-No, the plugin retains the original images while creating optimized versions and WebP files.
+== Upgrade Notice ==  
 
-== Changelog ==
-
-= 1.0 =
-* Initial release with automatic image compression and WebP generation.
-
-== Upgrade Notice ==
-
-= 1.0 =
-Initial release - Install now to start optimizing your images and generating WebP files automatically.
-
-
+= 1.0.0 =  
+Initial release.  
